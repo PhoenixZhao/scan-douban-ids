@@ -1,4 +1,4 @@
-#coding=gbk
+#encoding=gbk
 '''
     my[at]lijiejie.com
     http://www.lijiejie.com
